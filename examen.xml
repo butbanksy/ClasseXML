@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+    <personne>
+        <nom>nom1</nom>
+        <prenom>prenom1</prenom>
+        <profil>etudiant</profil>
+        <login>login1</login>
+        <password>login1</password>
+        <note>12</note>
+    </personne>
+    <personne>
+        <nom>nom2</nom>
+        <prenom>prenom2</prenom>
+        <profil>etudiant</profil>
+        <login>login2</login>
+        <password>login2</password>
+        <note>14</note>
+    </personne>
+    <personne>
+        <nom>nom3</nom>
+        <prenom>prenom3</prenom>
+        <profil>prof</profil>
+        <login>login3</login>
+        <password>login3</password>
+        <matiere>java</matiere>
+    </personne>
+</personnes>
